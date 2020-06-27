@@ -1,3 +1,7 @@
+# Special Umbrella Academy
+
+This is a place for all the special people with super powers to learn. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/capnregex/special-umbrella/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
